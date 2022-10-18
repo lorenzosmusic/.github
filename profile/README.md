@@ -12,6 +12,9 @@
 -->
 
 # Lorenzo's Music
+<img src="https://2.bp.blogspot.com/-ms0WoMgEGEk/X9hi-W6m5XI/AAAAAAACIbI/IAko1stkAPsvwUIRJlV6KQRVjhh5yOwqQCK4BGAYYCw/s800/Lorenzo%2527s%2BMusic%2Bband%2Bdrawing%2Bheader%2B%25281%2529.png"/>
+
 This is the GitHub account for the creative commons band Lorenzo's Music
 We record and produce music using only free and open-source software
+
 https://www.lorenzosmusic.com
